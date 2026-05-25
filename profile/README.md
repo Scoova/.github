@@ -67,11 +67,11 @@ both products.
 
 | Platform | Monitor | Cloud | Distribution |
 |---|---|---|---|
-| **iOS** | <img src="https://img.shields.io/badge/live-22C55E?style=flat-square" alt="live" /> | <img src="https://img.shields.io/badge/preview-F59E0B?style=flat-square" alt="preview" /> | Swift Package + CocoaPods |
-| **Android** | <img src="https://img.shields.io/badge/live-22C55E?style=flat-square" alt="live" /> | <img src="https://img.shields.io/badge/preview-F59E0B?style=flat-square" alt="preview" /> | Maven Central (`info.scoo-va`) |
-| **Flutter** | <img src="https://img.shields.io/badge/live-22C55E?style=flat-square" alt="live" /> | <img src="https://img.shields.io/badge/preview-F59E0B?style=flat-square" alt="preview" /> | pub.dev (verified publisher) |
-| **React Native** | <img src="https://img.shields.io/badge/live-22C55E?style=flat-square" alt="live" /> | <img src="https://img.shields.io/badge/preview-F59E0B?style=flat-square" alt="preview" /> | npm (`@scoova/*`) trusted publisher |
-| **Web** | <img src="https://img.shields.io/badge/live-22C55E?style=flat-square" alt="live" /> | <img src="https://img.shields.io/badge/preview-F59E0B?style=flat-square" alt="preview" /> | npm + jsDelivr CDN |
+| **iOS** | <a href="https://cocoapods.org/pods/ScoovaMonitor"><img src="https://img.shields.io/badge/live-22C55E?style=flat-square" alt="ScoovaMonitor on CocoaPods" /></a> | <a href="https://cloud.scoo-va.info/docs"><img src="https://img.shields.io/badge/preview-F59E0B?style=flat-square" alt="Cloud preview docs" /></a> | Swift Package + CocoaPods |
+| **Android** | <a href="https://central.sonatype.com/artifact/info.scoo-va/scoova-monitor-android"><img src="https://img.shields.io/badge/live-22C55E?style=flat-square" alt="scoova-monitor-android on Maven Central" /></a> | <a href="https://cloud.scoo-va.info/docs"><img src="https://img.shields.io/badge/preview-F59E0B?style=flat-square" alt="Cloud preview docs" /></a> | Maven Central (`info.scoo-va`) |
+| **Flutter** | <a href="https://pub.dev/packages/scoova_monitor"><img src="https://img.shields.io/badge/live-22C55E?style=flat-square" alt="scoova_monitor on pub.dev" /></a> | <a href="https://cloud.scoo-va.info/docs"><img src="https://img.shields.io/badge/preview-F59E0B?style=flat-square" alt="Cloud preview docs" /></a> | pub.dev (verified publisher) |
+| **React Native** | <a href="https://www.npmjs.com/package/@scoova/monitor-react-native"><img src="https://img.shields.io/badge/live-22C55E?style=flat-square" alt="@scoova/monitor-react-native on npm" /></a> | <a href="https://cloud.scoo-va.info/docs"><img src="https://img.shields.io/badge/preview-F59E0B?style=flat-square" alt="Cloud preview docs" /></a> | npm (`@scoova/*`) trusted publisher |
+| **Web** | <a href="https://www.npmjs.com/package/@scoova/monitor-web"><img src="https://img.shields.io/badge/live-22C55E?style=flat-square" alt="@scoova/monitor-web on npm" /></a> | <a href="https://cloud.scoo-va.info/docs"><img src="https://img.shields.io/badge/preview-F59E0B?style=flat-square" alt="Cloud preview docs" /></a> | npm + jsDelivr CDN |
 
 ---
 
