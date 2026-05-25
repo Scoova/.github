@@ -174,9 +174,9 @@ long-lived secrets across four of the five distribution channels.
 The full stack &mdash; Ktor server, 5 native SDKs, navigation engine,
 verified-publisher release pipelines, dashboard, AI symbolication &mdash; is
 built and maintained by a small team led by
-[**Zaid Abdelaziz**](https://github.com/zaidzedoo007). Reach out for
+[**Mohammed Zaid**](https://github.com/zaidzedoo007) · [LinkedIn](https://www.linkedin.com/in/mohammed-zaid-6860a1237/) · [Scoova on LinkedIn](https://www.linkedin.com/company/scoova/). Reach out for
 platform / SDK / DevTools engineering work:
-[dev@scoo-va.info](mailto:dev@scoo-va.info).
+[zaid@scoo-va.info](mailto:zaid@scoo-va.info).
 
 ---
 
@@ -186,7 +186,7 @@ platform / SDK / DevTools engineering work:
 Built with conviction for mobility, not advertising. &middot;
 <a href="https://scoo-va.info">scoo-va.info</a> &middot;
 <a href="https://monitor.scoo-va.info">monitor.scoo-va.info</a> &middot;
-<a href="mailto:dev@scoo-va.info">dev@scoo-va.info</a>
+<a href="mailto:zaid@scoo-va.info">zaid@scoo-va.info</a>
 </sub>
 
 </div>
