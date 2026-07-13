@@ -171,7 +171,7 @@ trust, npm trusted publishers with SLSA provenance, Sonatype Central
 Portal with in-memory PGP signing, CocoaPods trunk on tag. Zero
 long-lived secrets across four of the five distribution channels.
 
-The full stack &mdash; Ktor server, 5 native SDKs, navigation engine,
+The full stack &mdash;  45 native SDKs, navigation engine,
 verified-publisher release pipelines, dashboard, AI symbolication &mdash; is
 built and maintained by a small team led by
 [**Mohammed Zaid**](https://github.com/zaidzedoo007) · [LinkedIn](https://www.linkedin.com/in/mohammed-zaid-6860a1237/) · [Scoova on LinkedIn](https://www.linkedin.com/company/scoova/). Reach out for
